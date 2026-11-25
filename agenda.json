@@ -13,7 +13,7 @@
       "data": "2026-11-26",
       "arquivo": "posts/002-funcao-afim.jpg",
       "nivel": "MÉDIO",
-      "status": "pendente",
+      "status": "aprovado",
       "legenda": "Função afim sem mistério 📈\n\nToda função do tipo f(x) = ax + b vira uma reta no gráfico, e só dois números mandam nela:\n🔵 a → a inclinação (quanto sobe a cada passo pra direita)\n🟢 b → onde a reta corta o eixo y\n\nNo exemplo, f(x) = 2x + 1: começa no 1 e sobe 2 a cada 1 que anda.\n\n💬 Teste rápido: a reta de f(x) = −3x + 5 sobe ou desce?\n\n#matematica #funcaoafim #funcoes #ensinomedio #estudos #matematicafacil",
       "alt": "Gráfico da função f(x) = 2x + 1 mostrando a inclinação a = 2 e o ponto onde a reta corta o eixo y, b = 1."
     },
@@ -21,7 +21,7 @@
       "data": "2026-11-27",
       "arquivo": "posts/003-divisao-fracoes.jpg",
       "nivel": "FUNDAMENTAL",
-      "status": "pendente",
+      "status": "aprovado",
       "legenda": "Divisão de frações em 3 passos ✂️\n\n1️⃣ Mantém a primeira fração\n2️⃣ Inverte a segunda (vira de cabeça pra baixo)\n3️⃣ Multiplica: em cima com em cima, embaixo com embaixo\n\n3/4 ÷ 2/5 = 3/4 × 5/2 = 15/8\n\n💬 Sua vez: quanto dá 2/3 ÷ 4/9? Responde aí 👇\n\n#matematica #fracoes #matematicabasica #ensinofundamental #reforcoescolar #estudos",
       "alt": "Exemplo de divisão de frações: 3/4 dividido por 2/5 vira 3/4 vezes 5/2, que é igual a 15/8."
     },
@@ -29,7 +29,7 @@
       "data": "2026-11-28",
       "arquivo": "posts/004-regra-potencia.jpg",
       "nivel": "SUPERIOR",
-      "status": "pendente",
+      "status": "aprovado",
       "legenda": "A regra de derivada que você mais vai usar no Cálculo 1 🧠\n\nd/dx (xⁿ) = n · xⁿ⁻¹\n\nO expoente desce multiplicando e o novo expoente fica um a menos.\n• (x³)' = 3x²\n• (5x²)' = 10x\n• (x)' = 1\n• constante → derivada zero\n\n📌 Salva pra consultar na hora da lista de exercícios.\n\n#calculo #calculo1 #derivadas #engenharia #faculdade #matematica",
       "alt": "Regra da potência para derivadas, d/dx de x elevado a n é n vezes x elevado a n menos 1, com quatro exemplos."
     },
@@ -37,7 +37,7 @@
       "data": "2026-11-29",
       "arquivo": "posts/005-desafio-pa.jpg",
       "nivel": "MÉDIO",
-      "status": "pendente",
+      "status": "aprovado",
       "legenda": "Desafio de domingo 🧩\n\nNa sequência 3, 7, 11, 15, ... qual é o 20º termo?\n\nA) 76   B) 79   C) 80   D) 83\n\nDica: a razão é a diferença entre dois termos seguidos.\n\n💬 Comenta sua resposta! Amanhã eu coloco a resolução aqui nos comentários.\n\n#matematica #progressaoaritmetica #desafiomatematico #ensinomedio #estudos",
       "alt": "Desafio de progressão aritmética: na sequência 3, 7, 11, 15, qual é o vigésimo termo? Alternativas 76, 79, 80 e 83.",
       "comentario_dia_seguinte": "✅ Resolução: a razão é r = 7 − 3 = 4. Pela fórmula aₙ = a₁ + (n − 1)·r: a₂₀ = 3 + 19·4 = 3 + 76 = 79. Resposta: letra B!"
@@ -46,7 +46,7 @@
       "data": "2026-11-30",
       "arquivo": "posts/006-regra-sinais.jpg",
       "nivel": "FUNDAMENTAL",
-      "status": "pendente",
+      "status": "aprovado",
       "legenda": "Regra de sinais na multiplicação ➕➖\n\nSinais iguais → resultado positivo\nSinais diferentes → resultado negativo\n\n(−4) × (−3) = 12\n(−4) × 3 = −12\n\nVale igualzinho pra divisão!\n\n💬 Quanto dá (−2) × (−5) × (−1)?\n\n#matematica #numerosinteiros #regradesinais #ensinofundamental #matematicabasica",
       "alt": "Tabela da regra de sinais: mais vezes mais dá mais, menos vezes menos dá mais, sinais diferentes dão menos."
     },
@@ -54,7 +54,7 @@
       "data": "2026-12-01",
       "arquivo": "posts/007-angulos-notaveis.jpg",
       "nivel": "MÉDIO",
-      "status": "pendente",
+      "status": "aprovado",
       "legenda": "A tabela que aparece em toda prova de trigonometria 📐\n\nSeno, cosseno e tangente de 30°, 45° e 60°.\n\nTruque pra nunca esquecer: no seno os numeradores vão √1, √2, √3 (sempre sobre 2). No cosseno é a mesma coisa ao contrário. E a tangente é seno ÷ cosseno.\n\n📌 Salva e manda pra quem tá estudando trigonometria.\n\n#trigonometria #matematica #ensinomedio #angulosnotaveis #estudos",
       "alt": "Tabela de seno, cosseno e tangente dos ângulos de 30, 45 e 60 graus."
     },
@@ -62,7 +62,7 @@
       "data": "2026-12-02",
       "arquivo": "posts/008-integral-area.jpg",
       "nivel": "SUPERIOR",
-      "status": "pendente",
+      "status": "aprovado",
       "legenda": "Integral definida é ÁREA 🟦\n\n∫₀² x dx é a área embaixo da reta y = x, de 0 até 2.\n\nPela geometria: é um triângulo de base 2 e altura 2 → área = 2.\nPelo cálculo: [x²/2] de 0 a 2 = 4/2 − 0 = 2.\n\nMesma resposta pelos dois caminhos. Quando você enxerga a área, a integral para de ser só fórmula.\n\n#calculo #integral #calculo1 #faculdade #engenharia #matematica",
       "alt": "Gráfico da reta y = x com a área entre 0 e 2 pintada, formando um triângulo de área 2, igual à integral de 0 a 2 de x dx."
     }
