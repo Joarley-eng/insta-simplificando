@@ -13,9 +13,10 @@
       "data": "2026-11-26",
       "arquivo": "posts/002-funcao-afim.jpg",
       "nivel": "MÉDIO",
-      "status": "aprovado",
+      "status": "publicado",
       "legenda": "Função afim sem mistério 📈\n\nToda função do tipo f(x) = ax + b vira uma reta no gráfico, e só dois números mandam nela:\n🔵 a → a inclinação (quanto sobe a cada passo pra direita)\n🟢 b → onde a reta corta o eixo y\n\nNo exemplo, f(x) = 2x + 1: começa no 1 e sobe 2 a cada 1 que anda.\n\n💬 Teste rápido: a reta de f(x) = −3x + 5 sobe ou desce?\n\n#matematica #funcaoafim #funcoes #ensinomedio #estudos #matematicafacil",
-      "alt": "Gráfico da função f(x) = 2x + 1 mostrando a inclinação a = 2 e o ponto onde a reta corta o eixo y, b = 1."
+      "alt": "Gráfico da função f(x) = 2x + 1 mostrando a inclinação a = 2 e o ponto onde a reta corta o eixo y, b = 1.",
+      "media_id": "18118519874114828"
     },
     {
       "data": "2026-11-27",
